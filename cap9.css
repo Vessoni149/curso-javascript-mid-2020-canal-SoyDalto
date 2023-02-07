@@ -1,0 +1,22 @@
+.contenedor1 {
+    background-color: red;
+    padding: 30px;
+}
+
+.contenedor2 {
+    background-color: blue;
+    padding: 30px;
+}
+
+.contenedor3 {
+    background-color: aqua;
+
+}
+
+.input-prueba{
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 6px;
+    color: #444;
+    margin: 20px;
+}
